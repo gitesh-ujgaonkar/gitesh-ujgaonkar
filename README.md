@@ -14,7 +14,7 @@
 <div align="center">
 
 <!-- Each phrase separated by ";" gets typed out in turn. Spaces = "+", emoji need URL-encoding. -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Line+one+goes+here;Line+two+goes+here;Line+three+goes+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=550&lines=Hi%2C+I'm+gitesh-ujgaonkar+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;This+page+is+under+construction+%F0%9F%9A%A7)](https://git.io/typing-svg)
 
 </div>
 
